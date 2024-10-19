@@ -5,8 +5,8 @@
 This project is an individual assignment for the "Object-Oriented Programming – Java" course, offered in the 2nd semester of the 2023 academic year at the University of Piraeus, Department of Informatics. The goal of this project is to develop a console-based Java application that manages university members, including students, professors, administrative staff, and management. The application supports key object-oriented programming principles and allows users to perform various operations such as adding, viewing, editing, and deleting member records. Data is persisted using Java Serialization to ensure information is saved between sessions.
 
 ## Course Information
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Object Oriented Programming (2023)
 - **Semester:** 2nd
 
